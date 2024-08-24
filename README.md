@@ -37,4 +37,7 @@ nivel de piso, es decir, nos hay pilas de cajas.
 • Implementa dos soluciones: una solución sin ninguna estrategia de coordinación (basado en
 movimientos al azar) y una solución que emplee una estrategia que permita reducir el número
 de iteraciones.
+
 • Debe ser posible visualizar de una simulación.
+
+
